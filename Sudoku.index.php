@@ -1,7 +1,7 @@
 <?php
 
 /* Dit is de index-code waar alle andere code met elkaar zal worden verbonden.
-In principe is dit een beginfase voor het eigenlijke project, en het moet nog verwerkt en getest worden./*
+In principe is dit een beginfase voor het eigenlijke project, en het moet nog verwerkt en getest worden.*/
 
 // zet de foutmeldingen aan
 error_reporting(E_ALL);
