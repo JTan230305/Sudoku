@@ -1,7 +1,7 @@
 <?php
 /*
 Deze php code zorgt ervoor dat de sudoku in een raster wordt getoond. Deze is direct zo gemaakt dat dit zowel een 4x4 als 9x9 kan zijn.
-In principe hoef je verder niet iets aan deze code te wijzigen
+In principe hoeft er verder niets aan deze code te hoeven gewijzigd.
 */
 
 $lijnen = array();
